@@ -1,2 +1,2 @@
 # text-formatter
-##  [live demo](https://mahmoudalnkeeb.github.io/code-editor/
+##  [live demo](https://mahmoudalnkeeb.github.io/text-formatter)
